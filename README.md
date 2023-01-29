@@ -1,6 +1,6 @@
 # OpenGL Projects
 
-# Contents
+### Contents
  - [PONG](#pong)
     - [Setup Guide](#setup-guide)
     - [Controls](#controls)
