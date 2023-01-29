@@ -2,9 +2,8 @@
 
 # Contents
  - [PONG](#pong)
-    -   test
-    -[Setup Guide)(#setup-guide)
-    -[Controls](#controls)
+    - [Setup Guide)(#setup-guide)
+    - [Controls](#controls)
  
 
 ## PONG
