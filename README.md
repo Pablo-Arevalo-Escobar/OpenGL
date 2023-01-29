@@ -7,6 +7,9 @@ A pong game. Made with the purpose of learning simple collision detection and us
 ![](https://user-images.githubusercontent.com/63361048/215310666-76ed4a5d-6bda-4903-b672-952a9cf813cd.png)
 
 
+### Setup Guide
+ - Simply download the PONG File and launch the exe from within the folder
+
 ### Controls
  - Player 1 makes use of WASD to move around
  - Player 2 makes use of the arrow keys to move around
