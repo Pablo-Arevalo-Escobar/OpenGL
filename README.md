@@ -1,5 +1,11 @@
 # OpenGL Projects
 
+# Contents
+ - [PONG](#pong)
+   -[Setup Guide)(#setup-guide)
+   -[Controls](#controls)
+ 
+
 ## PONG
 
 A pong game. Made with the purpose of learning simple collision detection and use of the freetype library for text.
